@@ -1,4 +1,4 @@
-_Tutorial: Applying Baked LiveLink Face Animations to Metahumans in Unreal Engine 5.3_
+**_Tutorial: Applying Baked LiveLink Face Animations to Metahumans in Unreal Engine 5.3_**
 
 1. _Record Face Animation_
 
