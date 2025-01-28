@@ -1,11 +1,15 @@
 _Tutorial: Applying Baked LiveLink Face Animations to Metahumans in Unreal Engine 5.3_
 
 1. _Record Face Animation_
+
+
 I used a seperate project to record face animations with LiveLink. Bake the animation in the project that you recorded face animations. To do this,open the level sequencer of the recorded face animation. Right click on "Face" in the level sequecer and select "Bake Animation Sequence".
 
 <img src="./images/1.png" alt="1" width="500"/> <img src="./images/2.png" alt="2" width="500"/><img src="./images/3.png" alt="3" width="500"/>
 
 2. _Export the baked animation_
+ 
+ 
  Select "Asset Actions", then select "Export". There will be a pop up window named "FBX Export Options", select everything in the pop up and click on "Export to Animation"
 
 <img src="./images/4.png" alt="4" width="500"/> <img src="./images/5.png" alt="5" width="500"/><img src="./images/6.png" alt="6" width="500"/>
