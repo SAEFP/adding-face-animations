@@ -76,9 +76,9 @@ Repeat this for all face objects to make sure they remain attached.
 
 <img src="./images/23.png" alt="23" width="500"/><img src="./images/24.png" alt="24" width="500"/>
 
-17. In BP_Rowan, go to the Event Graph. Copy the "Set Widget for X and O Alignment" nodes and paste them into the Event Graph of BP_Gavin3.
+17. In BP_Rowan, go to the Event Graph. Copy the "Set Widget for X and O Alignment" nodes and paste them into the Event Graph of BP_Gavin3. Change Custom Event node to Event Begin Play node.
 
-<img src="./images/25.png" alt="25" width="500"/><img src="./images/26.png" alt="26" width="500"/>
+<img src="./images/25.png" alt="25" width="500"/><img src="./images/26.png" alt="26" width="500"/><img src="./images/39.png" alt="39" width="500"/>
 
 18. Create a new variable called Letter with the type Text. Set its default value to “0” in the Details panel.
 
