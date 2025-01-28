@@ -90,12 +90,12 @@ Repeat this for all face objects to make sure they remain attached.
 
 21. Copy the animation graph from Face_AnimBP_C and paste it into new animation blueprint called "abp_Gavin3_positive". Connect all nodes.
 
-<img src="./images/33.png" alt="33" width="500"/>
+<img src="./images/33.png" alt="33" width="500"/> 
 
 22. Create an arrow from Blend Pose 0 uder the Layered blend per bone node and search for Play Gavin3-Fred-Positive_Anim.  
 
-<img src="./images/34.png" alt="34" width="500"/>
+<img src="./images/35.png" alt="35" width="500"/>
 
 23. Go to BP_Gavin3. In the "Details" panel for the Face component, set the Anim Class to "abp_Gavin3_positive".
 
-<img src="./images/35.png" alt="35" width="500"/>
+<img src="./images/36.png" alt="36" width="500"/>
