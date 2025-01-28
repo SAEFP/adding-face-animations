@@ -103,3 +103,10 @@ Repeat this for all face objects to make sure they remain attached.
 23. Go to BP_Gavin3. In the "Details" panel for the Face component, set the Anim Class to "abp_Gavin3_positive".
 
 <img src="./images/36.png" alt="36" width="500"/>
+
+24. Go to BP_Gavin3. Click on Class Settings on the toolbar. In the Details panel on the right side, go to Interfaces, click the + Add button next to the Implemented Interfaces. 
+Under the available interfaces select the BPI_Virtual Agent. 
+
+25. Then, go the Event Graph of the blueprint. Right-click in the graph and type the name of the event you want to implement (from the interface) which is Event Hide Mesh from BPI_Virtual Agent interface. 
+On the left side you will see the interfaces which are Hide Mesh, Show Widget, Hide Widget and Get Widget Location. 
+Go to ready metahuman and copy and paste the nodes  inside them.  
